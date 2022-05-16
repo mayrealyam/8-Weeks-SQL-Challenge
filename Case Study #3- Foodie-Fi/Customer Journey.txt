@@ -1,0 +1,11 @@
+ BAsed off the 8 smaple customers provided in the sample from the subscriptions table,
+write a brief description about each customer's onboarding journey
+
+Customer_id 1 subscribed for only basic monthly plan. 
+customer_id2 subscribed for only pro annual plan after using the free trial.
+customer_id11 signed up for to the 7 day free trial then cancel.
+customer_id13 signed up for the 7 day free trial then subscribed for the basic monthly plan before upgrading to pro monthly.
+customer_id15 signed up for the 7 day free trial then subscribed for the pro monthly plan then cancel the plan.
+customer_id16 signed up for the free trial then subscribed to basic monthly plan before upgrading to pro annual plan
+customer_id18 signed up for the free trial then subscribed to pro monthly plan.
+customer_id19 signed up for the free trial then subscribd to pro monthly plan before upgrading to pro annual plan.
